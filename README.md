@@ -7,13 +7,13 @@
  ### Step 1:
 Create a class for operator overloading
 ### Step 2:
-Get inputs for length,breadth and height of the box from the user and then calculate the volume in overloading function
+Get inputs for length,breadth from the user in overloading function.
 ### Step 3:
-After that return a new object for the calculated volume
+Compare the inputs such as length and breadth.
 ### Step 4:
-Then create a new object to store the return object
+Using equal to(==) and not equal to(!=) operator we can compare the inputs.
 ### Step 5:
-After that print the calculated volume
+After that print the result.
 
 ## Program:
 ```
